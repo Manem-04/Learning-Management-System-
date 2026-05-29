@@ -1,11 +1,35 @@
 # my-projects
 Learning Management System (LMS) is a web-based platform for students, teachers, and administrators. Students can access lessons, take quizzes, and submit answers. Teachers manage learning materials and quizzes, while administrators handle user accounts and system management. Screenshots are provided for portfolio presentation.
 Screenshot 2024-12-23 124224.png
+
 ## Screenshots
 
-![SCREENSHOTS](Screenshot&1.png)
-
-![Student Dashboard](dashboard.png)
-
-![Quiz Page](quiz.png)
-![SCREENSHOTS](Screenshot1(10).png)
+![1](screenshots/Screenshot1(2).png)
+![2](screenshots/Screenshot1(3).png)
+![3](screenshots/Screenshot1(4).png)
+![4](screenshots/Screenshot1(5).png)
+![5](screenshots/Screenshot1(6).png)
+![6](screenshots/Screenshot1(7).png)
+![7](screenshots/Screenshot1(8).png)
+![8](screenshots/Screenshot1(9).png)
+![9](screenshots/Screenshot1(10).png)
+![10](screenshots/Screenshot1(11).png)
+![11](screenshots/Screenshot1(12).png)
+![12](screenshots/Screenshot1(13).png)
+![13](screenshots/Screenshot1(14).png)
+![14](screenshots/Screenshot1(15).png)
+![15](screenshots/Screenshot1(16).png)
+![16](screenshots/Screenshot1(17).png)
+![17](screenshots/Screenshot1(18).png)
+![18](screenshots/Screenshot1(19).png)
+![19](screenshots/Screenshot1(20).png)
+![20](screenshots/Screenshot1(21).png)
+![21](screenshots/Screenshot1(22).png)
+![22](screenshots/Screenshot1(23).png)
+![23](screenshots/Screenshot1(24).png)
+![24](screenshots/Screenshot1(25).png)
+![25](screenshots/Screenshot1(26).png)
+![26](screenshots/Screenshot1(27).png)
+![27](screenshots/Screenshot1(28).png)
+![28](screenshots/Screenshot1(29).png)
+![29](screenshots/Screenshot1(30).png)
